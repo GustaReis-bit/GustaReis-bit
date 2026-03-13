@@ -12,7 +12,7 @@
             <br>
             <br>
     </samp>
-    <img src="/img/code.gif" alt="code" height="200px">
+    <img src="/img/codedog.gif" alt="code" height="200px">
 </p>
 
 <details align="center">
