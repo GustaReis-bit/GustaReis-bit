@@ -27,7 +27,7 @@
 <img align="right" src="/img/coffee.gif" alt="coffee" width="180px">
 
 - 🔭 Uso o GitHub como repositório de projetos, exercícios da faculdade e códigos úteis para o meu aprendizado.
-- 🎓 Graduando em **Análise e Desenvolvimento de Sistemas**, migrando de carreira para o desenvolvimento de software.
+- 🎓 Graduando em **Análise e Desenvolvimento de Sistemas** .
 - 🚀 Dedico-me à criação de aplicações de diversos tipos, sempre buscando aprender novas tecnologias.
 - 🌱 Atualmente explorando novas ferramentas e frameworks para expandir meu conhecimento.
 - 💬 Fale comigo sobre back-end, novas tecnologias ou oportunidades!
