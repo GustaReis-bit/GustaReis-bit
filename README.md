@@ -80,14 +80,9 @@
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GustaReis-bit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GustaReis-bit&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://raw.githubusercontent.com/GustaReis-bit/GustaReis-bit/output/github-metrics.svg" width="100%"/>
 </div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustaReis-bit&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</div>
-
 <br>
 
 ## 🐍 Atividade recente
