@@ -1,111 +1,66 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:00C9A7&height=220&section=header&text=Olá,%20eu%20sou%20o%20Gustavo%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Desenvolvedor%20Back-end%20%7C%20ADS&descAlignY=55&descSize=18" width="100%"/>
-
-<br>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Desenvolvedor+Back-end+%F0%9F%92%BB;Migrando+de+carreira+para+TI+%F0%9F%9A%80;Sempre+aprendendo+algo+novo+%F0%9F%93%9A;Aberto+a+oportunidades+%F0%9F%A4%9D&font=Fira%20Code&center=true&width=500&height=45&color=00C9A7&vCenter=true&size=22&pause=1500" alt="Typing SVG" />
-</a>
-
-<br><br>
-
-<img src="/img/codedog.gif" alt="code" width="260px">
-
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavoreis05/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavoreis5905@gmail.com?subject=Eu%20vi%20seu%20perfil%20no%20Github&body=Olá%20Gustavo.%20Meu%20nome%20é%20_______)
-![Visitantes](https://komarev.com/ghpvc/?username=GustaReis-bit&style=for-the-badge&color=0077B5&label=VISITAS)
-
-</div>
-
-<br>
-
-## 💻 Sobre mim
-
-<img align="right" src="/img/coffee.gif" alt="coffee" width="180px">
-
-- 🔭 Uso o GitHub como repositório de projetos, exercícios da faculdade e códigos úteis para o meu aprendizado.
-- 🎓 Graduando em **Análise e Desenvolvimento de Sistemas** .
-- 🚀 Dedico-me à criação de aplicações de diversos tipos, sempre buscando aprender novas tecnologias.
-- 🌱 Atualmente explorando novas ferramentas e frameworks para expandir meu conhecimento.
-- 💬 Fale comigo sobre back-end, novas tecnologias ou oportunidades!
-
-<br clear="right"/>
-
-## 🖥️ Tecnologias
+<!-- Os SVGs vêm do branch "output" e são gerados por scripts/generate.py (.github/workflows/snake.yml). -->
 
 <div align="center">
 
-**Linguagens**
+<a href="https://github.com/GustaReis-bit"><img src="https://raw.githubusercontent.com/GustaReis-bit/GustaReis-bit/output/hero.svg" width="100%" alt="Gustavo Reis, desenvolvedor back-end, aberto a oportunidades"/></a>
 
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="28"/>
+<a href="https://www.linkedin.com/in/gustavoreis05/"><img src="https://raw.githubusercontent.com/GustaReis-bit/GustaReis-bit/output/btn-linkedin.svg" width="32%" alt="LinkedIn"/></a>
+<a href="mailto:gustavoreis5905@gmail.com?subject=Eu%20vi%20seu%20perfil%20no%20GitHub&body=Ol%C3%A1%20Gustavo.%20Meu%20nome%20%C3%A9%20_______"><img src="https://raw.githubusercontent.com/GustaReis-bit/GustaReis-bit/output/btn-email.svg" width="32%" alt="E-mail"/></a>
+<a href="https://portifolio-gustavo-tan.vercel.app"><img src="https://raw.githubusercontent.com/GustaReis-bit/GustaReis-bit/output/btn-portfolio.svg" width="32%" alt="Portfólio"/></a>
 
-**Back-end**
+<br/><br/>
 
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" height="28"/>
+<img src="https://raw.githubusercontent.com/GustaReis-bit/GustaReis-bit/output/section-whoami.svg" width="100%" alt="GET /whoami"/>
 
-**Front-end**
+<img src="https://raw.githubusercontent.com/GustaReis-bit/GustaReis-bit/output/profile.svg" width="100%" alt="Gustavo Reis: desenvolvedor back-end, graduando em Análise e Desenvolvimento de Sistemas, migrando de carreira para TI"/>
 
-<img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" height="28"/>
+<br/><br/>
 
-**Banco de Dados**
+<img src="https://raw.githubusercontent.com/GustaReis-bit/GustaReis-bit/output/section-projetos.svg" width="100%" alt="GET /projetos"/>
 
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34" height="28"/>
+<a href="https://github.com/GustaReis-bit/Portal-do-Aluno"><img src="https://raw.githubusercontent.com/GustaReis-bit/GustaReis-bit/output/project-Portal-do-Aluno.svg" width="49%" alt="Portal do Aluno"/></a>
+<a href="https://github.com/GustaReis-bit/Rematricula-API"><img src="https://raw.githubusercontent.com/GustaReis-bit/GustaReis-bit/output/project-Rematricula-API.svg" width="49%" alt="Rematrícula API"/></a>
+<a href="https://github.com/GustaReis-bit/catalogo-de-produtos"><img src="https://raw.githubusercontent.com/GustaReis-bit/GustaReis-bit/output/project-catalogo-de-produtos.svg" width="49%" alt="Catálogo de Produtos"/></a>
+<a href="https://github.com/GustaReis-bit/PortifolioGustavo"><img src="https://raw.githubusercontent.com/GustaReis-bit/GustaReis-bit/output/project-PortifolioGustavo.svg" width="49%" alt="Portfólio"/></a>
+<a href="https://github.com/GustaReis-bit/quiz_mobile"><img src="https://raw.githubusercontent.com/GustaReis-bit/GustaReis-bit/output/project-quiz_mobile.svg" width="49%" alt="Quiz Mobile"/></a>
+<a href="https://github.com/GustaReis-bit/ping-tool"><img src="https://raw.githubusercontent.com/GustaReis-bit/GustaReis-bit/output/project-ping-tool.svg" width="49%" alt="Docker Git Lab"/></a>
 
-**Deploy**
+<sub>Ao vivo: <a href="https://catalogo-de-produtos-zeta.vercel.app">Catálogo de Produtos</a> · <a href="https://portifolio-gustavo-tan.vercel.app">Portfólio</a> &nbsp;|&nbsp; Mais no GitHub: <a href="https://github.com/GustaReis-bit/Calculadora">Calculadora</a> · <a href="https://github.com/GustaReis-bit/Rio200-Graus">Rio 200 Graus</a></sub>
 
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" height="28"/>
+<br/><br/>
 
-**Sistemas & Ferramentas**
+<img src="https://raw.githubusercontent.com/GustaReis-bit/GustaReis-bit/output/section-stack.svg" width="100%" alt="GET /stack"/>
 
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="28"/>
-<img src="https://img.shields.io/badge/WSL-blue?style=for-the-badge&logo=windows&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" height="28"/>
+<img src="https://raw.githubusercontent.com/GustaReis-bit/GustaReis-bit/output/stack.svg" width="100%" alt="Java, TypeScript, JavaScript, Dart, C, Node.js, NestJS, Spring Boot, React, Vite, Tailwind, Bootstrap, HTML, CSS, Flutter, PostgreSQL, MongoDB, Firebase, Supabase, Docker, Nginx, Vercel, Linux, Git, GitHub, Swagger, TypeORM, JWT, OAuth2, Render e WSL"/>
 
-</div>
+<br/><br/>
 
-<br>
+<img src="https://raw.githubusercontent.com/GustaReis-bit/GustaReis-bit/output/section-atividade.svg" width="100%" alt="GET /atividade"/>
 
-## 📊 Estatísticas do GitHub
+<img src="https://raw.githubusercontent.com/GustaReis-bit/GustaReis-bit/output/skyline.svg" width="100%" alt="Calendário de contribuições em 3D, atualizado todos os dias"/>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GustaReis-bit&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://raw.githubusercontent.com/GustaReis-bit/GustaReis-bit/output/github-metrics.svg" width="100%"/>
-</div>
-<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GustaReis-bit/GustaReis-bit/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GustaReis-bit/GustaReis-bit/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/GustaReis-bit/GustaReis-bit/output/github-contribution-grid-snake.svg" width="100%" alt="Cobrinha comendo o gráfico de contribuições"/>
+</picture>
 
-## 🐍 Atividade recente
+<br/><br/>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/GustaReis-bit/GustaReis-bit/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</div>
+<img src="https://raw.githubusercontent.com/GustaReis-bit/GustaReis-bit/output/section-contato.svg" width="100%" alt="POST /contato"/>
 
-<br>
+<img src="img/coffee.gif" width="90" alt="Café"/>
 
-## 📫 Entre em contato
+**Bora trocar uma ideia sobre back-end, novas tecnologias ou oportunidades?**
 
-<div align="center">
+<a href="https://www.linkedin.com/in/gustavoreis05/"><img src="https://raw.githubusercontent.com/GustaReis-bit/GustaReis-bit/output/btn-linkedin.svg" width="32%" alt="LinkedIn"/></a>
+<a href="mailto:gustavoreis5905@gmail.com?subject=Eu%20vi%20seu%20perfil%20no%20GitHub&body=Ol%C3%A1%20Gustavo.%20Meu%20nome%20%C3%A9%20_______"><img src="https://raw.githubusercontent.com/GustaReis-bit/GustaReis-bit/output/btn-email.svg" width="32%" alt="E-mail"/></a>
+<a href="https://portifolio-gustavo-tan.vercel.app"><img src="https://raw.githubusercontent.com/GustaReis-bit/GustaReis-bit/output/btn-portfolio.svg" width="32%" alt="Portfólio"/></a>
 
-<a href="https://www.linkedin.com/in/gustavoreis05/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28"/>
-</a>
-<a href="mailto:gustavoreis5905@gmail.com?subject=Eu%20vi%20seu%20perfil%20no%20Github&body=Olá%20Gustavo.%20Meu%20nome%20é%20_______" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28"/>
-</a>
+<br/><br/>
 
-</div>
+<img src="https://raw.githubusercontent.com/GustaReis-bit/GustaReis-bit/output/footer.svg" width="100%" alt="HTTP 200 OK, obrigado pela visita"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,100:0077B5&height=100&section=footer" width="100%"/>
+<img src="https://komarev.com/ghpvc/?username=GustaReis-bit&style=flat-square&color=00C9A7&label=visitas" alt="Contador de visitas"/>
 
 </div>
