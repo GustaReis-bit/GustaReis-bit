@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="290" height="76" viewBox="0 0 290 76" role="img" aria-label="E-mail: manda uma mensagem"><title>E-mail: manda uma mensagem</title><style>@media (prefers-reduced-motion:reduce){*{animation:none!important}}.ar{animation:a 1.8s ease-in-out infinite}@keyframes a{0%,100%{transform:translateX(0)}50%{transform:translateX(4px)}}</style><defs><linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#111a2e"/><stop offset="1" stop-color="#0a0f1e"/></linearGradient></defs><rect x=".5" y=".5" width="289" height="75" rx="16" fill="url(#panel)" stroke="#22304d"/><svg x="16" y="18" width="40" height="40" viewBox="0 0 256 256"><g transform="translate(0, 0)">
+          <svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="256" height="256" rx="60" fill="#242938"/>
+<path d="M41.6364 203.028H73.4545V125.755L28 91.6646V189.392C28 196.937 34.1136 203.028 41.6364 203.028Z" fill="#4285F4"/>
+<path d="M182.545 203.028H214.364C221.909 203.028 228 196.915 228 189.392V91.6646L182.545 125.755" fill="#34A853"/>
+<path d="M182.545 66.6643V125.755L228 91.6643V73.4825C228 56.6189 208.75 47.0052 195.273 57.1189" fill="#FBBC04"/>
+<path d="M73.4545 125.755V66.6646L128 107.574L182.545 66.6646V125.755L128 166.665" fill="#EA4335"/>
+<path d="M28 73.4825V91.6643L73.4545 125.755V66.6643L60.7273 57.1189C47.2273 47.0052 28 56.6189 28 73.4825Z" fill="#C5221F"/>
+</svg>
+
+        </g></svg><text x="72" y="33" font-family="Inter,'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Roboto,'Noto Sans',sans-serif" font-size="17" font-weight="700" fill="#e8eefb">E-mail</text><text x="72" y="54" font-family="'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="11.5" fill="#8fa0bf">manda uma mensagem</text><text class="ar" x="256" y="44" font-family="'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="20" fill="#00C9A7">→</text></svg>
